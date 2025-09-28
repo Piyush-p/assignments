@@ -50,5 +50,7 @@ public class Assignemetn_DataTypes {
 		
 		double distance= 200.5;
 		
+		String Country= "India";
+		
 	
 }}
